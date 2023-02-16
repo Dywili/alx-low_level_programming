@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 /**
- * main - 6 size function
- *
+ * main - A size function
  * Return: 0 on (success)
  */
 int main(void)
