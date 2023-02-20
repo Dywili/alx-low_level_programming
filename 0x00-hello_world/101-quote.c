@@ -2,11 +2,10 @@
 #include <unistd.h>
 
 /**
- * main - A program for printing aline to standard error
- *
- * Return 1 (success)
- */
-
+* main - prints statement given
+*
+* Return: Always 1 (Success)
+*/
 int main(void)
 {
 	write(2,
